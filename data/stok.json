@@ -1,0 +1,98 @@
+[
+  {
+    "STOK_KODU": "00246",
+    "STOK_ADI": "PARMAK SARMA BEZİ CİLACI İÇİN.",
+    "GRUP_KODU": null,
+    "KOD_1": null,
+    "KOD_2": null,
+    "KOD_3": null,
+    "KOD_4": null,
+    "KOD_5": null,
+    "RESIM": "null.png",
+    "URETICI_KODU": null
+  },
+  {
+    "STOK_KODU": "00500",
+    "STOK_ADI": "HAS GÜMÜŞ GR",
+    "GRUP_KODU": null,
+    "KOD_1": null,
+    "KOD_2": null,
+    "KOD_3": null,
+    "KOD_4": null,
+    "KOD_5": null,
+    "RESIM": "null.png",
+    "URETICI_KODU": null
+  },
+  {
+    "STOK_KODU": "00754",
+    "STOK_ADI": "RACET KALEMİ 4*4",
+    "GRUP_KODU": null,
+    "KOD_1": null,
+    "KOD_2": null,
+    "KOD_3": null,
+    "KOD_4": null,
+    "KOD_5": null,
+    "RESIM": "null.png",
+    "URETICI_KODU": null
+  },
+  {
+    "STOK_KODU": "01",
+    "STOK_ADI": "ARAÇ SATIŞ",
+    "GRUP_KODU": null,
+    "KOD_1": null,
+    "KOD_2": null,
+    "KOD_3": null,
+    "KOD_4": null,
+    "KOD_5": null,
+    "RESIM": "null.png",
+    "URETICI_KODU": null
+  },
+  {
+    "STOK_KODU": "0110",
+    "STOK_ADI": "DENEME",
+    "GRUP_KODU": "AKS",
+    "KOD_1": null,
+    "KOD_2": null,
+    "KOD_3": null,
+    "KOD_4": null,
+    "KOD_5": null,
+    "RESIM": "null.png",
+    "URETICI_KODU": null
+  },
+  {
+    "STOK_KODU": "1003",
+    "STOK_ADI": "HAM MANKEN 1003 39 CM",
+    "GRUP_KODU": "HAM",
+    "KOD_1": "MANKEN",
+    "KOD_2": null,
+    "KOD_3": null,
+    "KOD_4": null,
+    "KOD_5": null,
+    "RESIM": "HMM_null.png",
+    "URETICI_KODU": null
+  },
+  {
+    "STOK_KODU": "3211",
+    "STOK_ADI": "SIMLI KURDELE",
+    "GRUP_KODU": "KRD",
+    "KOD_1": "KURDELA",
+    "KOD_2": null,
+    "KOD_3": null,
+    "KOD_4": null,
+    "KOD_5": null,
+    "RESIM": "null.png",
+    "URETICI_KODU": null
+  },
+  {
+    "STOK_KODU": "A062605",
+    "STOK_ADI": "PAFTA 1.50",
+    "GRUP_KODU": "AT",
+    "KOD_1": null,
+    "KOD_2": null,
+    "KOD_3": null,
+    "KOD_4": null,
+    "KOD_5": null,
+    "RESIM": "null.png",
+    "URETICI_KODU": null
+  }
+]

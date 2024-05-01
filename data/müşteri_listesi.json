@@ -1,0 +1,112 @@
+[
+  {
+    "CARI_KOD": "00",
+    "CARI_ISIM": "BEDELSİZ MAL",
+    "PLASIYER_KODU": null,
+    "CARI_TEL": null,
+    "CARI_ADRES": null,
+    "DOVIZ_TIPI": "0",
+    "ISKONTO_ORANI": "0,00000000",
+    "C_YEDEK1": "A"
+  },
+  {
+    "CARI_KOD": "0001",
+    "CARI_ISIM": "ARAÇ  SAYIM",
+    "PLASIYER_KODU": null,
+    "CARI_TEL": null,
+    "CARI_ADRES": null,
+    "DOVIZ_TIPI": "0",
+    "ISKONTO_ORANI": "0,00000000",
+    "C_YEDEK1": "A"
+  },
+  {
+    "CARI_KOD": "0001€",
+    "CARI_ISIM": "ARAÇ  SAYIM (€)",
+    "PLASIYER_KODU": null,
+    "CARI_TEL": null,
+    "CARI_ADRES": null,
+    "DOVIZ_TIPI": "3",
+    "ISKONTO_ORANI": "0,00000000",
+    "C_YEDEK1": "A"
+  },
+  {
+    "CARI_KOD": "00217",
+    "CARI_ISIM": "ERSOYLAR NİĞDE KUYUMCULUK TİC. LTD. ŞTİ.",
+    "PLASIYER_KODU": null,
+    "CARI_TEL": "02324459045",
+    "CARI_ADRES": "ANAFARTALAR CAD. NO:225",
+    "DOVIZ_TIPI": "0",
+    "ISKONTO_ORANI": "0,00000000",
+    "C_YEDEK1": "A"
+  },
+  {
+    "CARI_KOD": "01",
+    "CARI_ISIM": "MUHTELIF MUSTERILER",
+    "PLASIYER_KODU": null,
+    "CARI_TEL": null,
+    "CARI_ADRES": null,
+    "DOVIZ_TIPI": "0",
+    "ISKONTO_ORANI": "0,00000000",
+    "C_YEDEK1": "A"
+  },
+  {
+    "CARI_KOD": "01-1",
+    "CARI_ISIM": "MUHTELİF MÜŞTERİLER (KARABAĞLAR FAB.)",
+    "PLASIYER_KODU": null,
+    "CARI_TEL": null,
+    "CARI_ADRES": null,
+    "DOVIZ_TIPI": "0",
+    "ISKONTO_ORANI": "0,00000000",
+    "C_YEDEK1": "A"
+  },
+  {
+    "CARI_KOD": "01-2",
+    "CARI_ISIM": "MUHTELİF MÜŞTERİLER €  (KARABAĞLAR FAB.MAKSUT)",
+    "PLASIYER_KODU": null,
+    "CARI_TEL": null,
+    "CARI_ADRES": null,
+    "DOVIZ_TIPI": "0",
+    "ISKONTO_ORANI": "0,00000000",
+    "C_YEDEK1": "A"
+  },
+  {
+    "CARI_KOD": "01-3",
+    "CARI_ISIM": "MUHTELİF MÜŞTERİLER $",
+    "PLASIYER_KODU": null,
+    "CARI_TEL": null,
+    "CARI_ADRES": null,
+    "DOVIZ_TIPI": "0",
+    "ISKONTO_ORANI": "0,00000000",
+    "C_YEDEK1": "A"
+  },
+  {
+    "CARI_KOD": "01-4",
+    "CARI_ISIM": "MUHTELİF MÜŞTERİLER £",
+    "PLASIYER_KODU": null,
+    "CARI_TEL": null,
+    "CARI_ADRES": null,
+    "DOVIZ_TIPI": "4",
+    "ISKONTO_ORANI": "0,00000000",
+    "C_YEDEK1": "A"
+  },
+  {
+    "CARI_KOD": "010",
+    "CARI_ISIM": "MUHTELİF MÜŞERİLER -EKM 71 (TL)",
+    "PLASIYER_KODU": null,
+    "CARI_TEL": null,
+    "CARI_ADRES": null,
+    "DOVIZ_TIPI": "0",
+    "ISKONTO_ORANI": "0,00000000",
+    "C_YEDEK1": "A"
+  },
+  {
+    "CARI_KOD": "01009",
+    "CARI_ISIM": "ARTI ÜÇ DANIŞMALIK YAYINCILIK REK.HİZ.YAP.ORG. SAN.TİC.LTD.ŞTİ",
+    "PLASIYER_KODU": null,
+    "CARI_TEL": "4412633",
+    "CARI_ADRES": "1315 SOK.NO 9 KAT 7 D.703 KIZILIRMAK İŞ HANI KEMERALTI",
+    "DOVIZ_TIPI": "0",
+    "ISKONTO_ORANI": "0,00000000",
+    "C_YEDEK1": "A"
+  }
+]

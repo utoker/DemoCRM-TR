@@ -1,0 +1,30 @@
+[
+  {
+    "ID": 1,
+    "KULLANICI": "admin",
+    "SIFRE": "123",
+    "PLASIYER": "38",
+    "ADMIN": true
+  },
+  {
+    "ID": 2,
+    "KULLANICI": "kasa",
+    "SIFRE": "4444",
+    "PLASIYER": "00",
+    "ADMIN": false
+  },
+  {
+    "ID": 3,
+    "KULLANICI": "samet",
+    "SIFRE": "333333",
+    "PLASIYER": "33",
+    "ADMIN": false
+  },
+  {
+    "ID": 4,
+    "KULLANICI": "berkay",
+    "SIFRE": "414141",
+    "PLASIYER": "41",
+    "ADMIN": false
+  }
+]
